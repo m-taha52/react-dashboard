@@ -9,7 +9,7 @@ const Button = ({bgColor, color, size, text, borderRadius}) => {
       color,
       borderRadius,
     }}
-    className={`text-${size} p-3 hover:drop-shadow-xl`}
+    className={`text-${size} p-3 hover:drop-shadow-xl font-medium`}
     >
       {text}
     </button>
