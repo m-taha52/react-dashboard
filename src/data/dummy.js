@@ -546,14 +546,7 @@ export const links = [
         name: 'color-mapping',
         icon: <BsBarChart />,
       },
-      {
-        name: 'pyramid',
-        icon: <GiLouvrePyramid />,
-      },
-      {
-        name: 'stacked',
-        icon: <AiOutlineBarChart />,
-      },
+   
     ],
   },
 ];
