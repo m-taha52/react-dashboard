@@ -17,6 +17,9 @@ const LineChart = () => {
         width: 0
       }
     }}
+    legendSettings={{
+      background: 'white'
+    }}
     tooltip={{enable: true}}
     background={currentMode === "Dark" ? "#33373E" : "#fff"}
     >
